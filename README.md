@@ -1,2 +1,2 @@
-# Moi_Server
+# Moi-server
 Create and manage resumes
